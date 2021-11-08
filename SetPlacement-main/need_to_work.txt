@@ -1,0 +1,27 @@
+# need to create from
+17 update cv data.
+
+#work on the student dashboard
+3. massage for profile of students
+4. massage for applied jobs
+
+#work for company
+5. massseege form placement rep.
+6. student list who apply for this job profiles.
+7.there will be student name also slot details for this
+
+#work for placement rep
+8. job deatils.
+9. Student details for approved.
+10. job profile for aproved.
+11. applied job for approved.
+
+
+# need to create a dasboard for admin of this project.
+13.all  student details.
+14.company details.
+15. placement rep details.
+16. no of requrement for this company for corresponding job details. 
+
+#need to work for all profile
+18. After verify all data by placemnt rep we need not allow all to upadte thrir data.
